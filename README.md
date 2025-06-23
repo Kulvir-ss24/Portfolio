@@ -12,7 +12,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 ## Deployment
 
-Your project is live at:
+This project is live at:
 
 **[https://vercel.com/kulvirsinghs2411-5150s-projects/v0-personal-portfolio-website](https://vercel.com/kulvirsinghs2411-5150s-projects/v0-personal-portfolio-website)**
 
