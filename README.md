@@ -16,7 +16,7 @@ This project is live at:
 
 **[https://vercel.com/kulvirsinghs2411-5150s-projects/v0-personal-portfolio-website](https://vercel.com/kulvirsinghs2411-5150s-projects/v0-personal-portfolio-website)**
 
-👉Direct Link - https://v0-personal-portfolio-website-teal-seven.vercel.app
+Direct Link - https://v0-personal-portfolio-website-teal-seven.vercel.app
 
 ## Build your app
 
